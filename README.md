@@ -1,12 +1,10 @@
-# challenge-4
-Creating CRUD Models & Cars: 
-Ryan Nicholas Purba
+# challenge-5
+User Admin :
 
-Creating CRUD Types: 
-Nabilah Zakiyah Salmaa Firdaus
+ridwan@gmail.com
+Lolipop980
 
-Creating CRUD Manufactures & Transmissions: 
-Ridhwan Tsalasah Putra
+Only User  :
 
-Link DBDiagram: 
-https://dbdiagram.io/d/Cars-DB-670d160d97a66db9a3e9dee4
+user1@gmail.com
+Jakarta980
